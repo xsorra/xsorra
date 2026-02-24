@@ -1,5 +1,10 @@
-## Hi there 👋
-I'm Sorra! A senior digital designer with a passion for all things digital.🎨
+██████  ██████  ██████  ██████   █████  
+██       ██  ██  ██   ██ ██   ██ ██   ██ 
+ ██████  ██  ██  ██████  ██████  ███████ 
+      ██ ██  ██  ██   ██ ██   ██ ██   ██ 
+ ██████  ██████  ██   ██ ██   ██ ██   ██ 
+
+A senior digital designer with a passion for all things digital.🎨
 
 <!--
 **xsorra/xsorra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +20,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-I use:
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![After Effects](https://img.shields.io/badge/After%20Effects-CF96FD?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
