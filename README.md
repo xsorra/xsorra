@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm Sorra! A senior digital designer with a passion for all things digital.🎨
 
 <!--
 **xsorra/xsorra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-HI, I'M SORRA! A SENIOR DIGITAL DESIGNER WITH A PASSION FOR ALL THINGS DIGITAL. 
 
 I use:
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
